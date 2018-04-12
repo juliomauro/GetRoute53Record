@@ -1,8 +1,6 @@
 # Script to show DNS records from AWS - Route53
 Script to show DNS records from AWS - Route53
 
-This is a script for show your DNS records in Amazon Route53. 
-
 # Prerequisites
 
 1. Install AWS Command Line Interface - https://docs.aws.amazon.com/cli/latest/userguide/installing.html
