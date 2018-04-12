@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 ## Author: Julio Cesar Mauro
 ## Date: 12-04-2018
 ## Script to show DNS records from AWS - Route53
